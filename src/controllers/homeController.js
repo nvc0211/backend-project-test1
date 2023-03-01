@@ -9,5 +9,5 @@ let getAboutme = (req, res) => {
 
 module.exports = {
     getHomePage: getHomePage,
-    getAboutme: getAboutme
+    getAboutme: getAboutme,
 }
